@@ -1,0 +1,4 @@
+pitching_venv/
+__pycache__/
+.vscode/
+__ipynb.checkpoints__/
